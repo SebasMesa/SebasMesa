@@ -83,7 +83,7 @@
       <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=SebasMesa&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117&title_color=ff5555&text_color=c0caf5" alt="Top Languages" width="100%" />
     </td>
     <td width="45%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/loop%20web%20GIF.gif" width="280" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Coding Rig" />
+      <img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/ken.gif" width="280" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Coding Rig" />
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/dinero.gif" width="240" style="border-radius: 8px; border: 1px solid #1f2937;" alt="dinero aesthetic" />
+  <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/1500x500.jpeg" width="1500" style="border-radius: 8px; border: 1px solid #1f2937;" alt="dinero aesthetic" />
   <br><br>
   <code>lefiamma // 炎 — all systems operational</code>
 </div>
