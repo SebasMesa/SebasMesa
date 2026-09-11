@@ -11,21 +11,21 @@
 
 ### ░▒▓ Sobre mí // 概要 ▓▒░ <picture style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/descarga%20(1).gif" width="28" alt="coin icon"></picture>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/chains.gif" width="100%" height="20" alt="divider" />
-</div>
-
 <br>
+
 
 <div>
   <img align="right" style="margin-left: 25px; margin-bottom: 20px; border-radius: 8px;" alt="Samurai" src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/samurai.gif" width="310" height="auto" />
+    <p align="right">
+  <img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/invisible.png" alt="Samurai" width="20" height="auto" align="right" />
+</p>
 </div>
 
-- ⚡ **Builder / Full-Stack Dev** enfocado en crear interfaces limpias y sistemas sólidos (React, PHP, Tailwind CSS, Supabase).
-- 🎓 Estudiante universitario transformando lógica y café en software que realmente funciona.
-- 🕹️ Apasionado por la estética retro, el diseño UI/UX pixel-perfect y la arquitectura web limpia.
-- 🛠️ Actualmente en **deep work** construyendo aplicaciones web modernas, explorando automatizaciones con IA y optimizando flujos en terminal.
-- 🎧 Impulsado por buena música, side quests creativas y el modo focus al 100%.
+- ⚡ **Builder / Full-Stack Dev** enfocado en crear interfaces limpias y sistemas sólidos (React, PHP, Tailwind CSS, Supabase).         
+- 🎓 Estudiante universitario transformando lógica en software que realmente funciona.            
+- 🕹️ Apasionado por la estética retro, el diseño UI/UX pixel-perfect y la arquitectura web limpia.          
+- 🛠️ Actualmente en **deep work** construyendo aplicaciones web modernas, explorando automatizaciones con IA y optimizando flujos en terminal.          
+- 🎧 Impulsado por buena música. https://music.youtube.com/@YoungFiamma                
 
 <br clear="both">
 <br>
@@ -41,6 +41,7 @@
 - <a href="https://instagram.com/lefiamma"><img height="18" width="18" src="https://cdn.simpleicons.org/instagram/E4405F"></a> **Instagram:** [@lefiamma](https://instagram.com/lefiamma)
 - <a href="mailto:sebasmesadev@gmail.com"><img height="18" width="18" src="https://cdn.simpleicons.org/gmail/EA4335"></a> **Contacto directo:** `sebasmesadev@gmail.com`
 - <a href="https://github.com/sebasmesa"><img height="18" width="18" src="https://cdn.simpleicons.org/github/FFFFFF"></a> **GitHub:** [@sebasmesa](https://github.com/sebasmesa)
+- <a href="https://music.youtube.com/@YoungFiamma"><img height="18" width="18" src="https://cdn.simpleicons.org/youtubemusic/FF0000"></a> **Youtube Music:** [@youngfiamma](https://music.youtube.com/@YoungFiamma)
 
 <br>
 
@@ -69,13 +70,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/chains.gif" width="100%" height="20" alt="divider" />
-</div>
 
 <br>
 
-### ░▒▓ Estadísticas & Actividad // 統計 ▓▒░ 📊
+### ░▒▓ Estadísticas & Actividad // 統計  ▓▒░ 📊
 
 <table border="0" style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -93,14 +91,12 @@
 <br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/ff5555/SebasMesa" alt="SebasMesa's Github Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/4A0000/SebasMesa" alt="SebasMesa's Github Chart" width="100%" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/red-divider.gif" width="100%" height="24" alt="red divider" />
-  <br><br>
   <img src="https://raw.githubusercontent.com/SebasMesa/SebasMesa/main/raw/dinero.gif" width="240" style="border-radius: 8px; border: 1px solid #1f2937;" alt="dinero aesthetic" />
   <br><br>
   <code>lefiamma // 炎 — all systems operational</code>
