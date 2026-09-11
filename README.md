@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:sebasmesa?theme=booru-mjg">
 
-##   ░▒▓█ Sebas Mesa 炎 lefiamma █▓▒░  <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+##   ░▒▓█ Sebas Mesa 炎 █▓▒░ <br> <br> <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/rubik.gif" alt="Hi" width="300" /> 
 
 <p align="center">
   <a href="https://github.com/sebasmesa">
@@ -9,7 +9,7 @@
 </p>
 
 
-### ░▒▓ Sobre mí // 概要 ▓▒░ <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/aout_me.gif" width="40" alt="about me"></picture>
+### ░▒▓ Sobre mí // 概要 ▓▒░ <picture style="margin-right: 10px;"><img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/descarga%20(1).gif" width="30" alt="about me"></picture>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="280" height="auto" /></div>
 
