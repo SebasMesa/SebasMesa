@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:sebasmesa?theme=booru-mjg">
 
-##   ░▒▓█ Sebas Mesa 炎 █▓▒░ <br> <br> <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/rubik.gif" alt="Hi" width="300" /> 
+##  Sebas Mesa 炎 █▓▒░ <br> <br> <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/bat.gif" alt="Hi" width="250"/>
 
 <p align="center">
   <a href="https://github.com/sebasmesa">
