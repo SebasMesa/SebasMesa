@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:sebasmesa?theme=booru-mjg">
 
-##  Sebas Mesa 炎 █▓▒░ <br> <br> <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/bat.gif" alt="Hi" width="250"/>
+##  Sebas Mesa 炎 █▓▒░ <br> <br> <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/bat-divider.gif" alt="Hi" width="100" />  <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/bat-divider.gif" alt="Hi" width="100" /> <br> <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/bat-divider.gif" alt="Hi" width="100" /> <img src="https://github.com/SebasMesa/SebasMesa/blob/main/raw/bat-divider.gif" alt="Hi" width="100" />  
 
 <p align="center">
   <a href="https://github.com/sebasmesa">
